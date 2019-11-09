@@ -55,6 +55,6 @@ def plot(results,deltaT,steps,mode='Glucose'):
 	pyplot.show()
 
 results=update(params,1,400)
-plot(results,1,200,mode='Insulin')
+plot(results,1,200,mode='Insuline')
 
 
